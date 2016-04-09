@@ -1,2 +1,2 @@
-# iayebot
-Helpful, practical, smart and cutest bot on the planet
+# iAyeBot
+Helpful, practical and smart bot, oh and cute as button.
